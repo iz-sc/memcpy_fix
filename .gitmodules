@@ -3,7 +3,7 @@
 	url = https://github.com/riscv/riscv-binutils-gdb.git
 [submodule "riscv-gcc"]
 	path = riscv-gcc
-	url = https://github.com/iz-sc/riscv-gnu-toolchain/tree/memcpy_expanding_fix
+	url = https://github.com/iz-sc/riscv-gcc.git
 [submodule "riscv-glibc"]
 	path = riscv-glibc
 	url = https://github.com/riscv/riscv-glibc.git
